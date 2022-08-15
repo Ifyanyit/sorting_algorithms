@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 /**
  *  * enum bool - Enumeration of Boolean values.
